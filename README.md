@@ -149,7 +149,7 @@ Run `python -m pytest -q` afterwards; the tests check the samples against the ma
 
 ## Classes
 
-Edit the two class lines at the top of `trainer/config.py` (`CLASSES = {"Sec 4": [...], "Sec 3": [...]}`).
+Edit the class lines at the top of `trainer/config.py` (`CLASSES = {"Sec 4": [...], "Sec 5": [...], "Sec 3": [...]}`). Current: 4SG1-4SG4, 5AS, 3SG1-3SG4.
 
 ## Layout
 
